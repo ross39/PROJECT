@@ -7,3 +7,6 @@ References https://github.com/xamarin/docs-archive/blob/master/Docs/CocosSharp/b
 
 Visual Studio for mac 
 
+Correct submission is folder labelled project1
+
+
