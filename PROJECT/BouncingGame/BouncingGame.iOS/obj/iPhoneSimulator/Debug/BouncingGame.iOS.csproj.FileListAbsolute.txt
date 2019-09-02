@@ -1,0 +1,52 @@
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/BouncingGame.iOS.exe
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/BouncingGame.iOS.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/BouncingGame.Common.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/box2d.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/CocosSharp.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/Lidgren.Network.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/MonoGame.Framework.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/MonoGame.Framework.Net.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/BouncingGame.Common.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/CocosSharp.xml
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/Lidgren.Network.xml
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/MonoGame.Framework.xml
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/MonoGame.Framework.Net.xml
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/actool/_PartialAppManifest.items
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/actool/_BundleResourceWithLogicalName.items
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/coremlc/_PartialAppManifest.items
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/Content/paddle.png
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/Content/ball.png
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/BouncingGame.iOS.csprojAssemblyReference.cache
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/BouncingGame.iOS.csproj.CoreCompileInputs.cache
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/BouncingGame.iOS.csproj.CopyComplete
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/BouncingGame.iOS.exe
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/BouncingGame.iOS.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/BouncingGame.iOS.exe
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/BouncingGame.iOS.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/BouncingGame.Common.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/box2d.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/CocosSharp.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/Lidgren.Network.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/MonoGame.Framework.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/MonoGame.Framework.Net.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/BouncingGame.Common.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/CocosSharp.xml
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/Lidgren.Network.xml
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/MonoGame.Framework.xml
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/bin/iPhoneSimulator/Debug/MonoGame.Framework.Net.xml
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/actool/_PartialAppManifest.items
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/actool/_BundleResourceWithLogicalName.items
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/coremlc/_PartialAppManifest.items
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/Content/paddle.png
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/Content/ball.png
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/BouncingGame.iOS.csprojAssemblyReference.cache
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/BouncingGame.iOS.csproj.CoreCompileInputs.cache
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/BouncingGame.iOS.csproj.CopyComplete
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/BouncingGame.iOS.exe
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.iOS/obj/iPhoneSimulator/Debug/BouncingGame.iOS.pdb

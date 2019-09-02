@@ -1,0 +1,228 @@
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/bin/Debug/BouncingGame.Android.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/bin/Debug/BouncingGame.Android.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/bin/Debug/BouncingGame.Android.apk
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/bin/Debug/BouncingGame.Android-Signed.apk
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/bin/Debug/BouncingGame.Common.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/bin/Debug/CocosSharp.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/bin/Debug/Lidgren.Network.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/bin/Debug/MonoGame.Framework.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/bin/Debug/BouncingGame.Common.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/bin/Debug/CocosSharp.xml
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/bin/Debug/Lidgren.Network.xml
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/bin/Debug/MonoGame.Framework.xml
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttributes.cs
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/build.props
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/adb.props
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/BouncingGame.Android.csprojAssemblyReference.cache
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/resourcepaths.cache
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/res.flag
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/R.cs.flag
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/BouncingGame.Android.csproj.CoreCompileInputs.cache
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/BouncingGame.Android.csproj.CopyComplete
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/BouncingGame.Android.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/BouncingGame.Android.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/bin/BouncingGame.Android.apk
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/res/layout/main.xml
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/res/values/strings.xml
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/res/drawable-hdpi/icon.png
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/res/drawable-mdpi/icon.png
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/R.txt
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/uploadflags.txt
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/resolvedassemblies.hash
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/BouncingGame.Android.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/BouncingGame.Common.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/CocosSharp.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/Java.Interop.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/Lidgren.Network.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/Mono.Android.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/MonoGame.Framework.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/mscorlib.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/OpenTK-1.0.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Core.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Runtime.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Xml.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Collections.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Runtime.Serialization.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.ServiceModel.Internals.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Net.Http.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Drawing.Common.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/Mono.Security.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Numerics.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.ComponentModel.Composition.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/BouncingGame.Android.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/BouncingGame.Common.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/OpenTK-1.0.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/link.flag
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/BouncingGame.Android.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/BouncingGame.Android.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/BouncingGame.Common.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/BouncingGame.Common.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/CocosSharp.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/Java.Interop.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/Lidgren.Network.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/Mono.Android.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/Mono.Android.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/Mono.Security.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/MonoGame.Framework.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/OpenTK-1.0.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/OpenTK-1.0.pdb
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Collections.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Core.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Drawing.Common.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Numerics.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Runtime.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Xml.dll
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/mono/MonoRuntimeProvider.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/machine.config
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/bin/mono.android.jar
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/static.flag
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/buildid.txt
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5f54719fab2b5008f890ca4d350c867c1/ScreenReceiver.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5f54719fab2b5008f890ca4d350c867c1/AndroidGameActivity.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5f54719fab2b5008f890ca4d350c867c1/MonoGameAndroidGameView.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5f54719fab2b5008f890ca4d350c867c1/OrientationListener.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5456e3d577ef8ba3462c0d1626c5274df/Accelerometer_SensorListener.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5456e3d577ef8ba3462c0d1626c5274df/Compass_SensorListener.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5b91140b71aacd300338857cebaa38ef2/CCGameView_CCAndroidScreenReceiver.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5b91140b71aacd300338857cebaa38ef2/CCGameView.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/mono/MonoPackageManager_Resources.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md543c227c5f77ccf31aedafaf4c0e90739/MainActivity.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/bin/packaged_resources
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/src/bouncinggame/android/R.java
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/android/bin/classes.dex
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_BuildAdditionalResourcesCache.stamp
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_CleanIntermediateIfNuGetsChange.stamp
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_CompileToDalvik.stamp
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_ConvertCustomView.stamp
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_CopyIntermediateAssemblies.stamp
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_CopyPdbFiles.stamp
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
+/Users/rossheaney/Downloads/BouncingGame (1)/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/bin/Debug/BouncingGame.Android.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/bin/Debug/BouncingGame.Android.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/bin/Debug/BouncingGame.Android.apk
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/bin/Debug/BouncingGame.Android-Signed.apk
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/bin/Debug/BouncingGame.Common.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/bin/Debug/CocosSharp.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/bin/Debug/Lidgren.Network.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/bin/Debug/MonoGame.Framework.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/bin/Debug/BouncingGame.Common.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/bin/Debug/CocosSharp.xml
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/bin/Debug/Lidgren.Network.xml
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/bin/Debug/MonoGame.Framework.xml
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttributes.cs
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/build.props
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/adb.props
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/BouncingGame.Android.csprojAssemblyReference.cache
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/resourcepaths.cache
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/res.flag
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/R.cs.flag
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/BouncingGame.Android.csproj.CoreCompileInputs.cache
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/BouncingGame.Android.csproj.CopyComplete
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/BouncingGame.Android.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/BouncingGame.Android.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/bin/BouncingGame.Android.apk
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/res/layout/main.xml
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/res/values/strings.xml
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/res/drawable-hdpi/icon.png
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/res/drawable-mdpi/icon.png
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/R.txt
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/uploadflags.txt
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/resolvedassemblies.hash
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/BouncingGame.Android.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/BouncingGame.Common.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/CocosSharp.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/Java.Interop.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/Lidgren.Network.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/Mono.Android.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/MonoGame.Framework.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/mscorlib.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/OpenTK-1.0.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Core.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Runtime.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Xml.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Collections.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Runtime.Serialization.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.ServiceModel.Internals.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Net.Http.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Drawing.Common.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/Mono.Security.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.Numerics.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/System.ComponentModel.Composition.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/BouncingGame.Android.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/BouncingGame.Common.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/linksrc/OpenTK-1.0.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/link.flag
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/BouncingGame.Android.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/BouncingGame.Android.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/BouncingGame.Common.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/BouncingGame.Common.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/CocosSharp.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/Java.Interop.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/Lidgren.Network.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/machine.config
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/Mono.Android.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/Mono.Android.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/Mono.Security.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/MonoGame.Framework.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/OpenTK-1.0.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/OpenTK-1.0.pdb
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Collections.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Core.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Drawing.Common.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Numerics.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Runtime.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/assets/System.Xml.dll
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/mono/MonoRuntimeProvider.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/bin/mono.android.jar
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/static.flag
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/buildid.txt
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5f54719fab2b5008f890ca4d350c867c1/ScreenReceiver.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5f54719fab2b5008f890ca4d350c867c1/AndroidGameActivity.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5f54719fab2b5008f890ca4d350c867c1/MonoGameAndroidGameView.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5f54719fab2b5008f890ca4d350c867c1/OrientationListener.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5456e3d577ef8ba3462c0d1626c5274df/Accelerometer_SensorListener.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5456e3d577ef8ba3462c0d1626c5274df/Compass_SensorListener.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5b91140b71aacd300338857cebaa38ef2/CCGameView_CCAndroidScreenReceiver.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md5b91140b71aacd300338857cebaa38ef2/CCGameView.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/bouncinggame/android/R.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/mono/MonoPackageManager_Resources.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/src/md543c227c5f77ccf31aedafaf4c0e90739/MainActivity.java
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/bin/packaged_resources
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/android/bin/classes.dex
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_BuildAdditionalResourcesCache.stamp
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_CleanIntermediateIfNuGetsChange.stamp
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_CompileToDalvik.stamp
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_ConvertCustomView.stamp
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_CopyIntermediateAssemblies.stamp
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_CopyPdbFiles.stamp
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
+/Users/rossheaney/Downloads/PROJECT/BouncingGame/BouncingGame.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
