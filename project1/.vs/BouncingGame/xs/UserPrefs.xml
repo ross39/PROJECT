@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F573202E-DBA2-4D5C-8DB1-A8D956DB8643}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BouncingGame/BouncingGame.iOS/Info.plist">
+    <Files>
+      <File FileName="BouncingGame/BouncingGame.Common/GameLayer.cs" Line="210" Column="1" />
+      <File FileName="BouncingGame/BouncingGame.iOS/Entitlements.plist" />
+      <File FileName="BouncingGame/BouncingGame.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BouncingGame" expanded="True">
+            <Node name="BouncingGame.Android" expanded="True" />
+            <Node name="BouncingGame.Common" expanded="True" />
+            <Node name="BouncingGame.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BouncingGame.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.701F320A-91CE-4644-9397-E873831716AF" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
